@@ -43,7 +43,7 @@
 ---
 
 ### 🌐 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/aarushi-sharma) • [RIT](https://www.rit.edu/) • [Portfolio (Coming Soon)]()
+[LinkedIn]([https://www.linkedin.com/in/aarushi-sharma](https://www.linkedin.com/in/aarushi-sharma1501/)) • [RIT](https://www.rit.edu/) • [Portfolio (Coming Soon)]()
 
 ---
 
