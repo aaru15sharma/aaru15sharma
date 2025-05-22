@@ -75,8 +75,8 @@
 
 ## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aarushi-sharma](https://www.linkedin.com/in/aarushi-sharma1501/))  
-📧 aarushisharma1501@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-sharma1501/)  
+[![Gmail](https://img.shields.io/badge/Email-aarushisharma1501@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushisharma1501@gmail.com)
 
 ---
 
