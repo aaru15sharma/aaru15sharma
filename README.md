@@ -2,12 +2,10 @@
 
 👩🏻‍💻 **About Me:**
 
-- 🎓 Graduate student in **Data Science @ RIT** (GPA: 3.78)
-- 💼 Ex–Business Analyst @ **Quantiphi** – Reduced hospital no-shows by 65% using predictive models
-- 🌱 Learning more about **Data Engineering**, **Airflow**, and **Cloud-Native Tools**
-- 🧠 I enjoy building **ETL pipelines**, designing **data-driven apps**, and visualizing insights that matter
-- 🐝 Side passion: Bee conservation meets data science 🐝 (ask me about the hive project!)
-
+- 🎓 Graduate student in **Data Science @ RIT**
+- 💼 Ex–Business Analyst Trainee @ **Quantiphi**
+- 🌱 Learning more about **Data Engineering** and **Data Analysis**
+- 🛠️ I believe the best ideas come from everyday life — and I love building tools that bring those ideas to life with data.
 ---
 
 ## 🚀 What I’m Working On:
@@ -20,7 +18,7 @@
 
 ## 🌱 Currently Learning
 
-- `Apache Airflow` · `Advanced PySpark` · `Kubernetes` · `Google Cloud Platform (ACE)`
+- `Apache Airflow` · `PySpark` · 
 
 ---
 
@@ -36,14 +34,14 @@
 
 - MongoDB Aggregation Pipelines  
 - PySpark Optimization  
-- Neo4j Graph Modeling  
+- Neo4j and MongoDB Graph Modeling  
 - Or debugging ETL code at 2AM 😅
 
 ---
 
 ## ⚡ Fun Fact
 
-> I published an IEEE paper on AI-powered feminine health — and I build dashboards to monitor **bee stress** 🐝
+> I published an IEEE paper on AI-powered feminine health — and I built dashboard to monitor **bee stress** 🐝
 
 ---
 
@@ -77,7 +75,7 @@
 
 ## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarushi-sharma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aarushi-sharma](https://www.linkedin.com/in/aarushi-sharma1501/))  
 📧 aarushisharma1501@gmail.com
 
 ---
