@@ -12,8 +12,6 @@
 
 - 🧮 Real-time credit card transaction system (**Kafka + PySpark + MySQL**)
 - 🎵 Music graph insights project: **Graph & Roll (Neo4j + D3.js)**
-- 🗺️ **CrimeAtlas**: A MERN stack app with crime heatmaps and geospatial queries
-
 ---
 
 ## 🌱 Currently Learning
