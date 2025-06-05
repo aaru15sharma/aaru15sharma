@@ -10,8 +10,8 @@
 
 ## 🚀 What I’m Working On:
 
-- 🧮 Real-time credit card transaction system (**Kafka + PySpark + MySQL**)
 - 🎵 Music graph insights project: **Graph & Roll (Neo4j + D3.js)**
+- 🐝 Monitoring hive stress and brood activity using sensor data, MongoDB, and FastAPI - **Bee Hive Health Dashboard** 
 ---
 
 ## 🌱 Currently Learning
